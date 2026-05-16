@@ -1,3 +1,3 @@
 # nginx
 
-A lightweight HTTP server binary for deployment automation.
+一个轻量的HTTP服务，能够实现负载均衡，提高服务性能。
